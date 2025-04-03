@@ -99,5 +99,8 @@ Ao final da execução, o sistema exibe uma visualização gráfica comparando a
 ---
 
 ## Autor
+Alberto Zilio
+Lucas Steffens
+Roni Pereira
 
 Desenvolvido como parte da disciplina de Inteligência Artificial.
